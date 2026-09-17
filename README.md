@@ -1,7 +1,7 @@
 # Enterprise Network Architecture & Security Redesign
 
 **Author:** Sebastian Romo  
-**Repository:** Enterprise-Network-Security-Architecture
+**Repository:** Network-Security-Architecture
 
 ---
 
